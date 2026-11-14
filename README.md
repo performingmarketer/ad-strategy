@@ -48,4 +48,4 @@ Developed for **Performing Marketer**. This is an independent educational market
 
 ## Licensing
 
-**No open-source license has been selected.** Public access to a GitHub repository is not a license to copy, modify, or redistribute its contents. The owner may add a license later to grant explicit reuse permissions.
+This project is open source under the [MIT License](LICENSE). Copyright (c) 2026 Performing Marketer. You may use, modify, and redistribute the skill under the terms of that license. The MIT License does not grant rights to use the Performing Marketer name or logos as trademarks, or any third-party materials not owned by the project.

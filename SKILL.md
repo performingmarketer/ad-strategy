@@ -58,7 +58,7 @@ For every concept include: **concept title, customer segment, motivation/problem
 
 Before finalizing, run the **diversity check**: if two concepts sell the same benefit to the same customer with the same proof, merge or replace one. Recolors, font changes, and near-identical hooks are variants, not distinct concepts.
 
-Refer to `references/creative-angle-library.md` for angle selection and to `references/business-category-library.md` for the industry-specific category taxonomy, customer motivations, proof, conversion funnels, and safeguards. When a business is specified, identify its primary category and optionally its secondary category before designing creative concepts. Do not force a category if none match; create a tailored one. Never present library categories as Meta advertising Special Ad Categories.
+Refer to `references/creative-angle-library.md` for angle selection and hook formulas, and to `references/business-category-library.md` for the industry-specific category taxonomy, customer motivations, proof, conversion funnels, and safeguards. When a business is specified, identify its primary category and optionally its secondary category before designing creative concepts. Do not force a category if none match; create a tailored one. Never present library categories as Meta advertising Special Ad Categories.
 
 ## Phase 4 — Produce ready-to-use ad assets
 
@@ -68,6 +68,7 @@ Prioritize five concepts in Full mode; if the budget or production resources are
 - **Video/Reel:** three opening hooks; a naturally spoken **30–60-second** script (or user-requested duration); scene-by-scene direction with approximate timings; on-screen text; close/CTA. Make the opening relevant and fast, not misleading.
 - **Static/Carousel adaptation:** short on-image headline, supporting line, minimal-text visual layout; for carousels, card-by-card copy where useful.
 - **Meta ad copy:** two or three primary-text options, 2–3 headlines, one description, CTA.
+- **Post-Click / WhatsApp Follow-up (when WhatsApp or Lead-Gen is the goal):** 3 short, natural first-response messages (instant greeting + qualification question, proof/value nudge, clear next-step CTA) that continue the exact promise made in the ad.
 - **Production:** shots/assets needed, presenter/voice direction, visual proof, branding consistency, compliance checks.
 
 Do not force every format for every concept if that would produce redundant content. If user asks only for strategy, summarize packages and ask which to develop first.
@@ -78,7 +79,7 @@ Define the test objective, target action, creative hypothesis, primary KPI, and 
 
 Explain that Meta may allocate delivery unevenly across ads. Comparing ad results in a shared campaign is **directional optimization**, not a controlled experiment. For a specific causal question, recommend a properly designed A/B test when available and practical. Keep campaign objective, attribution, conversion definition, landing experience, and other conditions comparable where feasible. Avoid resetting learning through unnecessary edits.
 
-Use `references/measurement-and-testing.md` for metrics, formulas, diagnostic logic, and budget-sensitive decisions.
+Use `references/measurement-and-testing.md` for metrics, formulas, budget-tier guidance, diagnostic logic, and budget-sensitive decisions.
 
 ## Phase 6 — Business outcomes and 30-day execution
 

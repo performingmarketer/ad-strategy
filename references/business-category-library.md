@@ -1,4 +1,4 @@
-# Business Category Library — Ad Strategy v1.1
+# Business Category Library — Ad Strategy v1.2
 
 **Purpose:** Industry-specific starting points for a *universal* Meta Ads creative strategy. These are marketing-planning categories, **not Meta's Special Ad Categories** or verified targeting interests. The skill must work with any business, including industries not listed here.
 

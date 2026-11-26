@@ -29,6 +29,7 @@ Separate provided results from assumptions. Audit customer journey and metric de
 - **Recommended format and visual sequence**
 - **Natural spoken script** (when requested)
 - **Primary texts, headlines and CTA**
+- **Post-Click / WhatsApp First-Response Script** (for WhatsApp / Lead-Gen campaigns: 3 short, natural follow-up messages — instant greeting + qualification question, value/proof nudge, and clear next-step CTA)
 - **Testing hypothesis, leading metric and verified business outcome**
 
 ## Language

@@ -15,6 +15,16 @@
 
 Do not fabricate benchmarks, customer counts, conversion events or results.
 
+## Budget-Tier Creative Testing Guide (Illustrative Starting Points)
+
+Adapt testing volume to budget and conversion volume rather than over-fragmenting spend:
+
+| Monthly Budget Tier | Active Concepts to Test | Recommended Approach | Review Cadence |
+|---|---|---|---|
+| **Starter (₹5,000 – ₹15,000/mo)** | 2–3 distinct concepts | 1 campaign, focused objective (e.g., WhatsApp or Leads). Avoid splitting budget across too many ad sets. | Weekly review of lead quality & actual enquiries |
+| **Growth (₹20,000 – ₹50,000/mo)** | 4–6 distinct concepts | Separate proven winners from new creative tests when conversion volume supports it. | Weekly creative signal review + bi-weekly iteration |
+| **Scale (₹1,00,000+/mo)** | 6–10+ concepts across funnel stages | Structured testing (including supported A/B tests for key hypotheses) + dedicated retargeting/objection-handling layer. | Bi-weekly cohort/CPA review + continuous creative refresh |
+
 ## Interpret results carefully
 
 | Symptom | Check first | Possible creative action |

@@ -22,8 +22,8 @@ Claimed course features to verify before publication: practical training, live p
 4. **AI + Marketing Reasoning**: Show AI generating draft copy, followed by customer-research, proof and budget checks by a marketer.
 5. **Transparent Course Value**: Explain verified curriculum and fee with no job guarantees; confirm ₹40,000 applies to the advertised training format.
 
-## Recommended first test
-One practical WhatsApp enquiry campaign where supported by the account, 2 contrasting creative concepts initially, a clear lead qualification flow and weekly review of *actual admissions*. Uneven ad delivery makes comparisons directional rather than strictly causal.
+## Recommended first test (Starter Tier: ₹5,000–₹10,000/mo)
+One practical WhatsApp enquiry campaign where supported by the account, 2 contrasting creative concepts initially, a clear lead qualification flow (including a 3-step WhatsApp first-response script), and weekly review of *actual admissions*. Uneven ad delivery makes comparisons directional rather than strictly causal.
 
 ## Compliance
 Do not promise job placement, income or admissions. Verify internship terms, fee applicability, real-project permissions, and use of identifiable student images/testimonials.
